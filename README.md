@@ -78,7 +78,7 @@ $$
 
 This was implemented in this project by using angles closer to 0 to signify a relatedness in vectors that was positive.
 
-## Ths Complete Genetic Algorithm
+## The Complete Genetic Algorithm
 ----------
 This section utilizes all the previous methods and the DNA data structure to construct a genetic algorithm that uses generations to tend towards a more fit population.
 
@@ -93,4 +93,3 @@ Over this time the population grows more fit and the most fit is then selected f
 ------
 My understanding of this topic has much room to improve and so could the data structure and algorithm that I wrote. This could be used in a number of ways including
 finding approximates for eigenvalues, maximizing data based on certain key metrics while retaining less information, or optimizing other vector metrics.
-
